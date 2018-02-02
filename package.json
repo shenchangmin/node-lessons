@@ -1,15 +1,26 @@
 {
   "name": "node-lessons",
   "version": "1.0.0",
-  "description": "lessons",
+  "description": "nodejs学习教程",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenchangmin/node-lessons.git"
+  },
   "keywords": [
-    "node"
+    "nodejs"
   ],
-  "author": "shenchangmin",
+  "author": "shenchangmin <503228484@qq.com>",
   "license": "MIT",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/shenchangmin/node-lessons/issues"
+  },
+  "homepage": "https://github.com/shenchangmin/node-lessons#readme"
 }
