@@ -54,5 +54,6 @@ fabric.properties
 .sass-cache/
 *.css.map
 .idea/
+.idea/vcs.xml
 node_modules/
 
