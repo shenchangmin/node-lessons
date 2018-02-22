@@ -4,7 +4,9 @@
   "description": "nodejs学习教程",
   "main": "app.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
+    "superagent": "^3.8.2",
     "utility": "^1.13.1"
   },
   "devDependencies": {},
